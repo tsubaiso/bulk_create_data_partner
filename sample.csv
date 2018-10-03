@@ -1,10 +1,10 @@
-resource,code,id_code,link_url
-customer_masters,individual,code1,https://google.co.jp
-customer_masters,KAI,code2,https://google.com
-customer_masters,MIHA,code3,https://yahoo.co.jp
-customer_masters,SKAI,code4,https://youtube.com
-customer_masters,SMIHA,code5,https://facebook.com
-customer_masters,0000,code6,https://www.goo.com
-customer_masters,0001,code7,https://www.amazon.co.jp
-customer_masters,0002,code8,https://www.twitter.com
+resource,id,id_code,link_url
+customer_masters,1,individual,code1,https://google.co.jp
+customer_masters,2,KAI,code2,https://google.com
+customer_masters,3,MIHA,code3,https://yahoo.co.jp
+customer_masters,4,SKAI,code4,https://youtube.com
+customer_masters,5,SMIHA,code5,https://facebook.com
+customer_masters,6,0000,code6,https://www.goo.com
+customer_masters,7,0001,code7,https://www.amazon.co.jp
+customer_masters,8,0002,code8,https://www.twitter.com
 
