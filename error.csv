@@ -1,0 +1,6 @@
+resource,code,id_code,link_url
+customer_masters,individual,code1,https://google.co.jp
+customer_master,KAI,code2,https://google.com
+customer_masters,MIHA,code3,https://yahoo.co.jp
+customer_masters,SKAI,,
+
